@@ -1,5 +1,7 @@
 # TABLEAU CHALLENGE
 
+https://public.tableau.com/profile/natalie.davies#!/vizhome/CitiBikeAnalysis_16040407696690/CITIBIKENYCANALYSIS
+
 My Purpose
 Playing the role of a data analyst for the New York Citi Bike Program. I am responsible for overseeing the largest bike sharing program in the United States. 
 
